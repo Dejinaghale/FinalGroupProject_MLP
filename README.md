@@ -5,6 +5,12 @@
 - Shishir Aryal (200582212)
 
 ---------------------------------------
+## How to Run
+
+1. Clone this repository  
+2. Make sure Python and PyTorch are installed  
+3. Open `Updated_Transformer.ipynb` in Jupyter Notebook or VS Code  
+4. Run all cells to train and compare the models
 
 ## Overview
 
@@ -78,12 +84,7 @@ We were inspired by the paper *"Large Scale Legal Text Classification Using Tran
 
 ---
 
-## How to Run
 
-1. Clone this repository  
-2. Make sure Python and PyTorch are installed  
-3. Open `Updated_Transformer.ipynb` in Jupyter Notebook or VS Code  
-4. Run all cells to train and compare the models
 
 ---------------------------------------
 
