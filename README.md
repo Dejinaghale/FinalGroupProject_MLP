@@ -42,7 +42,7 @@ We were inspired by the paper *"Large Scale Legal Text Classification Using Tran
 - Jupyter Notebook  
 - Matplotlib (for plots and loss curves)
 
----
+
 --------------------------------------
 ## Results
 
